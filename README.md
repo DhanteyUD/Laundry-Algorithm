@@ -1,6 +1,6 @@
 # Laundry Problem
 
-This repo contains the laundry problem. It tests your understanding of JavaScript fundamentals. Check Question.md to view the problem statement.
+This repo contains the laundry problem. It tests your understanding of JavaScript fundamentals. Check `Question.md` to view the problem statement.
 
 First run `npm install` or `yarn` to install dependencies based on your package manager of choice
 
